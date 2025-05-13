@@ -1,0 +1,32 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+
+# SQLite database files
+mindflow.db
+*.db-journal
+
+# Environment variables file
+.env
+
+# Logs
+*.log
+
+# IDE directories
+.vscode/
+.idea/
+
+# macOS & Windows
+.DS_Store
+Thumbs.db
+
+# React app directories
+app/node_modules/
+app/build/
+
+dist/
+build/
